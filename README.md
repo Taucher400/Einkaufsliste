@@ -1,8 +1,8 @@
 # LEBENSLAUF
----
 
-..* Persönliche Daten
+* Persönliche Daten
 
+| Typ           | Inhalt             |
 |:-----------:|-----------:|
 | *Vorname* | Tizian    |
-| Nachname  | Unknown   |
+| **Nachname**  | ***Unknown***   |
